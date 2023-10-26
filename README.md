@@ -2,4 +2,4 @@
 for Elzero Web school git course
 
 
-##project nots
+##project notse
